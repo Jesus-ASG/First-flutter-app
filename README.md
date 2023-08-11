@@ -1,16 +1,15 @@
 # my_first_flutter_app
 
-A new Flutter project.
+A simple flutter app for the addition of two numbers.
 
-## Getting Started
+## Screenshots
+![Screenshot_1691753305](https://github.com/Jesus-ASG/First-flutter-app/assets/106128245/f841e72f-360d-4628-9e46-489fa0bf9780)
 
-This project is a starting point for a Flutter application.
+![Screenshot_1691753369](https://github.com/Jesus-ASG/First-flutter-app/assets/106128245/7e89966c-e063-469d-8181-8818ded24a58)
 
-A few resources to get you started if this is your first Flutter project:
+![Screenshot_1691753388](https://github.com/Jesus-ASG/First-flutter-app/assets/106128245/732af82a-da1c-487c-b454-55da78079a33)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+![Screenshot_1691754748](https://github.com/Jesus-ASG/First-flutter-app/assets/106128245/e49e2f18-3a53-4106-820e-de8d7a684cfd)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+
